@@ -10,7 +10,6 @@ class wektor{
 private:
     T * tab;
     int rozmiar;
-    int capacity;
     void allocate();
 public:
     wektor();//
