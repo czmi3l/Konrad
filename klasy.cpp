@@ -1,6 +1,6 @@
 class poczta{
 public:
-    string nadawca, odbiorca, temat, tresc;
+    string nadawca, odbiorca, temat, tresc,adres;
     void wypisz();
     void wczytaj();
 };
